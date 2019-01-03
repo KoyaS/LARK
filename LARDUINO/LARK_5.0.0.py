@@ -1,0 +1,4 @@
+import PyCmdMessenger
+
+while #:
+	data = #
