@@ -5,7 +5,7 @@ import numpy
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D as lin
 import time as t
-
+#This program listens and creates a spectrogram with matplotlib
 #CONSTANTS
 CHUNK = 1024                   
 FORMAT = pyaudio.paInt16
